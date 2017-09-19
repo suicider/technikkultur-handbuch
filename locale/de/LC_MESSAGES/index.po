@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Stephan
+# This file is distributed under the same license as the Technikkultur
+# Handbuch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Technikkultur Handbuch 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-17 22:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.1\n"
+
+# 86da31e35de04829a800e565563e3e31
+#: ../../index.rst:7
+msgid "Welcome to Technikkultur Handbuch's documentation!"
+msgstr "Willkommen beim Technikkultur Handbuch"
+
+# cfacad4a547c472dbe84be9587afcaa3
+#: ../../index.rst:9
+msgid "Contents:"
+msgstr "Inhalt"
+
+# 936a2c37ec2c46e6be3d4f5d2bc6dcd6
+#: ../../index.rst:17
+msgid "Indices and tables"
+msgstr "Verzeichnis und Tabellen"
+
+# 37bba5bfb9544418a9aaf41525acdd21
+#: ../../index.rst:19
+msgid ":ref:`genindex`"
+msgstr ""
+
+# 25fb77e749104ea2b21a0e726e5aad7a
+#: ../../index.rst:20
+msgid ":ref:`modindex`"
+msgstr ""
+
+# 528a8cf642e948c19b1f4a18567c50b3
+#: ../../index.rst:21
+msgid ":ref:`search`"
+msgstr ""
+
